@@ -182,3 +182,7 @@ Bu proje:
 Şeyhmus Elik\
 Computer Engineering\
 Medical AI & Deep Learning
+
+## 📜 Lisans
+
+This project is licensed under the MIT License.
